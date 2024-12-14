@@ -11,7 +11,7 @@ let package = Package(
             targets: ["NMapsMapTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/navermaps/SPM-NMapsGeometry.git", from: "1.0.2")
+        .package(url: "https://github.com/xncbf/SPM-NMapsGeometry.git", from: "1.0.2")
     ],
     targets: [
         .target(
