@@ -1,0 +1,15 @@
+{
+  "originHash" : "8a0877b08530b02868b8e0fd5e11375f5c02c6057e3b32fc175674715e1433ed",
+  "pins" : [
+    {
+      "identity" : "spm-nmapsgeometry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xncbf/SPM-NMapsGeometry.git",
+      "state" : {
+        "revision" : "39913ead391a8eb592364560d4f17d806984b486",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
